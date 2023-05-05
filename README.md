@@ -25,7 +25,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
                                      
-                                                                                                                                                                                                                       :man_technologist:  Hello, this is a place for some of the code I have written. Feel free to copy anything, or reach out with any questions! :speak_no_evil: :hear_no_evil:
+                                                                                                                                                                                                                   
+        Hello, this is a place for some of the code I have written. Feel free to copy anything, or reach out with any questions! 
                                                                                                                                                                                                                        
   
                                      
