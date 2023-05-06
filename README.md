@@ -26,7 +26,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
                                      
                                                                                                                                                                                                                    
-        Hello, this is a place for some of the code I have written. Feel free to copy anything, or reach out with any questions! 
+        Hello, this is a place for some of the code I have written. Feel free to reuse anything here, or reach out with any questions! 
                                                                                                                                                                                                                        
   
                                      
