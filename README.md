@@ -1,6 +1,10 @@
 
 
-       [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+       <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,mongodb,spring" />
+  </a>
+</p>
         
         
         ------------------------------------------------------------------------------------------------------------------------------------                                                                                             
