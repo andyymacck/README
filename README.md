@@ -1,6 +1,6 @@
 
 
-        [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,mongodb,spring,vscode,eclipse,idea,discord)](https://skillicons.dev) 
+        [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,react,html,css,mongodb,spring,vscode,eclipse,idea,discord&theme=dark)](https://skillicons.dev) 
         
         
         ------------------------------------------------------------------------------------------------------------------------------------                                                                                             
