@@ -1,10 +1,10 @@
 
 
-       <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,mongodb,spring" />
-  </a>
-</p>
+      
+         <a href="https://skillicons.dev">
+           <img src="https://skillicons.dev/icons?i=java,js,react,html,css,mongodb,spring" />
+         </a>
+       </p>
         
         
         ------------------------------------------------------------------------------------------------------------------------------------                                                                                             
